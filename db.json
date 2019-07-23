@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
     {
         "databaseId": 1,
         "serverId": 1,
@@ -31,4 +32,12 @@
         "descriptionType": null,
         "matchedCustomProperties": null
     }
-]
+],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
