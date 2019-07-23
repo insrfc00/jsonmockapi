@@ -1,0 +1,34 @@
+[
+    {
+        "databaseId": 1,
+        "serverId": 1,
+        "name": "admin",
+        "description": "admin database",
+        "descriptionType": null,
+        "matchedCustomProperties": null
+    },
+    {
+        "databaseId": 2,
+        "serverId": 1,
+        "name": "itpilot",
+        "description": "itpilot database",
+        "descriptionType": null,
+        "matchedCustomProperties": null
+    },
+    {
+        "databaseId": 3,
+        "serverId": 1,
+        "name": "sakila",
+        "description": "",
+        "descriptionType": null,
+        "matchedCustomProperties": null
+    },
+    {
+        "databaseId": 4,
+        "serverId": 1,
+        "name": "sakila_2",
+        "description": "",
+        "descriptionType": null,
+        "matchedCustomProperties": null
+    }
+]
